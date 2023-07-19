@@ -1,0 +1,87 @@
+{
+  "seller": [
+    {
+      "name": "Gaurav jha",
+      "email": "jhag8094@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Niluuu",
+      "password": "456",
+      "email": "jhag8094@gmail.com",
+      "id": 38
+    },
+    {
+      "name": "Gaurav jha ",
+      "password": "wwee",
+      "email": "jhag8094@gmail.com",
+      "id": 39
+    },
+    {
+      "name": "Gaurav jha ",
+      "password": "tyhj",
+      "email": "jhag8094@gmail.com",
+      "id": 40
+    },
+    {
+      "name": "Aniket",
+      "password": "789",
+      "email": "aniket78@gmail.com",
+      "id": 41
+    },
+    {
+      "name": "Rashi ",
+      "password": "rashi@",
+      "email": "Rashi8094@gmail.com",
+      "id": 42
+    },
+    {
+      "email": "jhag8094@gmail.com",
+      "password": "67484",
+      "id": 43
+    },
+    {
+      "name": "Gaurav jha ",
+      "password": "uhh",
+      "email": "robinwood809@gmail.com",
+      "id": 44
+    },
+    {
+      "name": "Gaurav jha ",
+      "password": "1234",
+      "email": "jhag8094@gmail.com",
+      "id": 45
+    },
+    {
+      "name": "Rishu ",
+      "password": "6",
+      "email": "ag8094@gmail.com",
+      "id": 46
+    },
+    {
+      "name": "Gaurav jha",
+      "password": "Iwill",
+      "email": "jhag8094@gmail.com",
+      "id": 47
+    },
+    {
+      "name": "Gaurav jha ",
+      "password": "5",
+      "email": "Rashi8094@gmail.com",
+      "id": 48
+    },
+    {
+      "name": "Gaurav jha ",
+      "password": "4",
+      "email": "jhag8094@gmail.com",
+      "id": 49
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 50
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.head {
+    color: #8a2be2;
+    margin: 0px;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+
+.headUl {
+    display: inline-flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.headLi {
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.listItem {
+    text-decoration: none;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+.search {
+    margin-top: 5px;
+    flex: 1;
+    display: flex;
+    margin-left: 25px;
+    margin-right: 5px;
+}
+
+.nav-search input {
+    flex: 1;
+    color: #000000;
+    border: 1px solid #ffffff;
+    height: 40px;
+    border-right: 0px;
+}
+
+.nav-search button {
+    color: #000000;
+    border: 1px solid #ffffff;
+    height: 40px;
+    border-left: 0px;
+}
+
+.headA {
+    color: #8a2be2;
+    text-decoration: none;
+}

@@ -1,0 +1,20 @@
+.signHead {
+    margin-top: 50px;
+    margin-bottom: 80px;
+    text-align: center;
+    color: blueviolet;
+}
+
+.loginHead {
+    margin-top: 50px;
+    margin-bottom: 80px;
+    text-align: center;
+    color: blueviolet;
+}
+
+.auth-toggle-link {
+    margin-top: 10px;
+    color: blueviolet;
+    text-align: left;
+    cursor: pointer;
+}
